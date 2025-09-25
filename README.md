@@ -25,7 +25,7 @@ The system allows managing **clients, plans, orders, billing**, and provides **s
 - **Language:** C#  
 - **IDE:** Visual Studio  
 - **Frontend:** HTML, CSS, Bootstrap, Chart.js  
-- **Database:** (Add if SQL Server or other DB used)  
+- **Database:**  SQL Server  
 
 ---
 
